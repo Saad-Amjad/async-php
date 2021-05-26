@@ -10,7 +10,7 @@ This will run the given example.
 
 ## For Laravel Octane Server Demo
 
-Github (Link)[https://github.com/Saad-Amjad/laravel-octane-demo].
+Github [Link](https://github.com/Saad-Amjad/laravel-octane-demo).
 
 ## For Swoole Examples
 
@@ -24,10 +24,10 @@ Install Swoole from [here](https://www.swoole.co.uk/docs/get-started/installatio
 wrk - a HTTP benchmarking tool [wrk](https://github.com/wg/wrk).
 
 
-## Awesome Resouces (Growing List)
+## Awesome Resources 
  
 I highly recommend these resources on Asynchronous Programming and Asynchronous PHP.
-You can go through these video and reading materials for having more in-depth knowledge on this topic:
+You can go through these video and reading materials for having more in-depth knowledge on this topic, this is a growing list:
 
   - PHP 25 years: https://www.jetbrains.com/lp/php-25/
   - Guzzle: https://docs.guzzlephp.org/en/stable/

@@ -1,5 +1,7 @@
 {
     "require": {
-        "guzzlehttp/guzzle": "^7.0"
+        "guzzlehttp/guzzle": "^7.0",
+        "react/http": "^1.3",
+        "nikic/fast-route": "^1.3"
     }
 }

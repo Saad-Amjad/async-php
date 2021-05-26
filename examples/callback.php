@@ -1,16 +1,15 @@
 <?php
 
-require '../vendor/autoload.php';
+function cooking($callback)
+{
+    sleep(2);
+    $callback();
+    echo "Finished cooking"."\n";;
+}
 
-use GuzzleHttp\Client;
+function fish()
+{
+    echo "Prepare fish"."\n";
+}
 
-$client  = new Client();
-$request = $client->getAsync('http://localhost:3000')
-    ->then(function ($response) use ($client) {
-        $callback1 = $response->getBody();
-        echo $callback1;
-    });
-$request->wait();
-
-
-
+cooking('fish');

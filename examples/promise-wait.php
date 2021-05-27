@@ -12,5 +12,6 @@ $promise = $client->getAsync('http://localhost:3000')
         echo $response->getBody();
     });
 
+echo "Not Waiting";
 $promise->wait();
 

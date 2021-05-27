@@ -31,6 +31,7 @@ You can go through these video and reading materials for having more in-depth kn
 
   - PHP 25 years: https://www.jetbrains.com/lp/php-25/
   - Guzzle: https://docs.guzzlephp.org/en/stable/
+  - Spatie: https://github.com/spatie/async
   - ReactPHP: https://reactphp.org/
   - Amp PHP: https://amphp.org/amp/
   - Swoole: https://www.swoole.co.uk/how-it-works

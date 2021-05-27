@@ -18,6 +18,7 @@ Install Swoole from [here](https://www.swoole.co.uk/docs/get-started/installatio
 
 ## Presentation Slide Link
 
+Slides: https://slides.com/saadbinamjad/state-of-async-php
 
 ## Benchmarking Tool
 

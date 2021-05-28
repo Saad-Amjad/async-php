@@ -70,7 +70,7 @@ Articles:
    - https://medium.com/@itIsMadhavan/concurrency-vs-parallelism-a-brief-review-b337c8dac350
 
 Misc: 
-  - Ramsey's 10 minute: https://www.youtube.com/watch?v=HrNLvCO2tE4
+  - Ramsay's 10 minute: https://www.youtube.com/watch?v=HrNLvCO2tE4
 
 
 

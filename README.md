@@ -16,6 +16,10 @@ Github [Link](https://github.com/Saad-Amjad/laravel-octane-demo).
 
 Install Swoole from [here](https://www.swoole.co.uk/docs/get-started/installation).
 
+## Presentation Video Link
+
+YouTube Link: https://www.youtube.com/watch?v=j04kDO7kVFY
+
 ## Presentation Slide Link
 
 Slides: https://slides.com/saadbinamjad/state-of-async-php
